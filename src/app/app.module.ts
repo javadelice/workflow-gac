@@ -11,7 +11,7 @@ import { C2Component } from './c2/c2.component';
 @NgModule({
   declarations: [
     AppComponent,
-    C3Component
+    C3Component,
     C1ClementSamnaelComponent,
     C2Component
   ],
